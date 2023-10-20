@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 </div>
 
 ###
@@ -62,8 +62,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
