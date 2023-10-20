@@ -1,5 +1,5 @@
-<h1 align="center">hey 👋 I'm Muhammad Waseem</h1>
-<h2 align="center"Im a passionatehey PHP developer</h2>
+<h1 align="center">Hey 👋 I'm Muhammad Waseem</h1>
+<h2 align="center"Im a passionate PHP developer</h2>
 
 ###
 
