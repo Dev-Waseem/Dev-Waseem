@@ -1,9 +1,10 @@
 <h1 align="center">hey 👋 I'm Muhammad Waseem</h1>
+<h2 align="center"Im a passionatehey PHP developer</h2>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 </div>
 
 ###
